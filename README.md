@@ -70,9 +70,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgments
 
 - Thanks to the open-source community for their contributions and support.
-```
-
-### Additional Notes
-- Ensure that your repository contains a `LICENSE` file if you mention licensing.
-- You might want to add sections like **Acknowledgments** or **Contact Information** based on your preferences.
-
